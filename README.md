@@ -17,7 +17,7 @@
 
 ---
 
-### 🔧 Tech Stack
+## Tech Stack
 
 **Languages:** Python, C, JavaScript (NodeJS)  
 **Frameworks:** Django, FastAPI, Flask, Express.js  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Highlight Projects
+## Highlight Projects
 
 | Project | Description | Stack | Links |
 |--------|-------------|--------|--------|
@@ -39,7 +39,7 @@
 
 ---
 
-### 🧑‍💼 Experience Highlights
+## Experience Highlights
 
 - **Backend Developer (Contract)** @ Jardani  
   Built core backend systems for an African cross-border trade marketplace.
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/ugberaeseac)
 - [GitHub](https://github.com/ugberaeseac)
@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <i>"Clean code, real-world impact."</i>
+  <i>Looking to collaborate, build, or connect?</i>
 </p>
