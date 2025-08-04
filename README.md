@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+## About Me
 
 - 💻 Backend Developer with experience in Python, Django, FastAPI, and REST/GraphQL APIs.
 - 💡 Passionate about creating tech that solves real-world problems.
